@@ -1,0 +1,282 @@
+2
+123
+0 Porto
+1 Lisbon
+2 Cordoba
+3 Granada
+4 Valencia
+5 Barcelona
+6 Genoa
+7 Lyon
+8 Rome
+9 Venice
+10 Paris
+11 Prague
+12 Krakow
+13 Kiev
+14 Crimea
+15 Athens
+16 Fez
+17 Tripoli
+18 Alexandria
+19 Cairo
+20 Qusair
+21 Suakin
+22 Zeila
+23 Constantinople
+24 Bursa
+25 Sardis
+26 Ephesus
+27 Alanya
+28 Konya
+29 Antioch
+30 Aleppo
+31 Palmyra
+32 Damascus
+33 Tyre
+34 Jerusalem
+35 Gaza
+36 Petra
+37 Leuce
+38 Dara
+39 Nisibis
+40 Bagdad
+41 Trebizond
+42 Erzurum
+43 Baku
+44 Shaki
+45 Tbilisi
+46 Derbent
+47 Tabriz
+48 Ecbatana
+49 Rostov
+50 Elista
+51 Astrakhan
+52 Rayy
+53 Gorgan
+54 Nishapur
+55 Merv
+56 Khiva
+57 Bukhara
+58 Otrar
+59 Kokand
+60 Samarkand
+61 Medina
+62 Jeddan
+63 Mecca
+64 San'a
+65 Muza
+66 Aden
+67 Cana
+68 Salalah
+69 Muscat
+70 Sohar
+71 Hormuz
+72 Siraf
+73 Apologos
+74 Qalhat
+75 Susa
+76 Isfahan
+77 Karachi
+78 Barygaza
+79 Goa
+80 Calicut
+81 Kochi
+82 Anuradhapura
+83 Pondicherry
+84 Madras
+85 Tamralipti
+86 Delhi
+87 Taxila
+88 Balkh
+89 Pegu
+90 Malacca
+91 Kashgar
+92 Khotan
+93 Kuqa
+94 Turfan
+95 Urumqi
+96 Dunhuang
+97 Chengu
+98 Xi'an
+99 Shan-du
+100 Beijing
+101 Loyang
+102 Pyongyang
+103 Seoul
+104 Wuhan
+105 Nanjing
+106 Busan
+107 Fukuoka
+108 Nagasaki
+109 Nara
+110 Osaka
+111 Foochow
+112 Zaitun
+113 Canton
+114 Macau
+115 Bolinao
+116 Cattigara
+117 Hoi
+118 Bandar
+119 Singapore
+120 Sriwijaya
+121 Jakarta
+122 Sulawesi
+156
+0 1 313
+1 2 502
+2 3 206
+3 4 451
+3 16 470
+4 5 350
+5 6 680
+6 7 460
+6 8 500
+6 9 370
+7 10 440
+8 15 1550
+9 15 1900
+10 11 1050
+11 12 530
+12 13 860
+13 14 860
+14 23 600
+14 49 860
+14 46 1500
+15 18 1100
+15 29 1300
+15 33 1200
+16 17 2100
+17 18 1800
+18 19 220
+18 33 350
+19 20 600
+20 21 2100
+20 37 800
+21 22 2100
+22 66 250
+23 24 110
+23 38 1350
+24 25 290
+25 26 110
+25 28 1400
+26 27 520
+27 28 230
+27 29 560
+29 30 100
+30 31 280
+31 32 242
+31 40 650
+32 33 144
+32 34 270
+34 35 150
+34 36 260
+35 36 250
+36 37 1280
+36 61 1600
+38 39 30
+39 40 650
+40 48 452
+40 74 513
+40 61 1900
+41 42 240
+42 43 930
+42 47 580
+43 44 450
+43 46 260
+45 46 560
+47 48 550
+48 52 340
+48 76 430
+49 50 270
+50 51 320
+50 58 2800
+50 56 1800
+52 53 420
+52 54 1240
+53 55 880
+54 55 510
+55 57 350
+55 60 600
+55 88 600
+56 57 390
+58 59 470
+59 60 400
+59 91 450
+59 95 1700
+61 62 450
+61 63 510
+62 63 100
+62 65 1200
+63 64 1100
+63 68 2500
+64 65 400
+64 66 380
+64 67 800
+65 66 340
+66 67 540
+66 81 3600
+67 68 760
+68 69 1200
+69 70 210
+70 71 300
+71 72 510
+71 76 930
+71 77 1450
+71 88 2200
+72 73 580
+73 74 80
+74 75 90
+77 78 1000
+77 87 1300
+78 79 880
+79 80 600
+80 81 170
+81 82 480
+81 83 540
+83 84 150
+84 85 2400
+85 86 1460
+85 89 1800
+86 87 755
+87 88 940
+89 90 2100
+90 119 320
+91 92 500
+91 93 450
+92 96 1800
+93 94 670
+93 96 1200
+94 95 240
+94 96 890
+96 98 1900
+97 98 870
+98 99 1100
+98 101 490
+99 100 370
+100 101 800
+100 102 900
+101 105 900
+101 104 510
+102 103 200
+103 106 350
+105 108 900
+105 111 1000
+106 107 310
+107 108 150
+108 109 700
+109 110 40
+111 112 180
+104 112 1100
+112 113 780
+112 115 900
+113 114 90
+114 117 900
+115 116 1300
+115 118 2300
+117 119 2700
+118 119 2700
+119 120 600
+119 121 110
+121 122 220
